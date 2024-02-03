@@ -21,7 +21,7 @@
 
     python3 main.py
 
-imagen
+![image](https://github.com/ZombieGeeK0/IpChanger/assets/158185295/e77c85c6-0b6d-431a-b101-1af488f1518a)
 
 <hr>
 
