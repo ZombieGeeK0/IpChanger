@@ -5,3 +5,6 @@
 `[#]:` Está hecho en `Python.`
 
 `[#]:` Está probado en `Kali Linux` y está hecho para `Linux.`
+
+`[#]:` ¿Cómo `instalarlo?:`
+
