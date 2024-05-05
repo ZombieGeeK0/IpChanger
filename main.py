@@ -1,19 +1,10 @@
-# importamos las librerías necesarias
 from colorama import Fore, Back
 import os, sys
 
-# definimos los colores de colorama
-BLACK = '\033[30m'
 RED = '\033[31m'
-GREEN = '\033[32m'
-YELLOW = '\033[33m'
 BLUE = '\033[34m'
-MAGENTA = '\033[35m'
-CYAN = '\033[36m'
-WHITE = '\033[37m'
 RESET = '\033[39m'
 
-# hacemos las funciones principales
 def salir():
     print(Fore.RESET + Back.RESET)
     os.system('clear')
@@ -70,9 +61,6 @@ def cambiar_ip():
     choice = input(Fore.RED + Back.RESET + '[#] ====>  ')
     menu()
 
-    
-
-# hacemos el menú
 def menu():
     os.system('clear')
     title = '''
